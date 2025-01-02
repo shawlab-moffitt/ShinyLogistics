@@ -14,7 +14,7 @@
 | --- | --- | --- | --- |
 | shiny | shinyjqui | shinycssloaders | dplyr |
 | readr  | ggplot2 | data.table | caret |
-| ggpubr | DT_0.23 | nnet | svglite |
+| ggpubr | DT | nnet | svglite |
 
 
 
